@@ -1,0 +1,91 @@
+/* 表示領域全体 */
+div#site-box{
+  width: 800px;
+  margin: auto;
+}
+div#a-box{
+
+  width: 800px;
+  margin: auto;
+}
+#s{
+  width: 200px;
+}
+div#b-box{
+  margin-left: 10px;
+  width: 100px;
+  background-color: #FFFAFA;
+  border: 2px solid  #32CD32;
+  float: left;
+}
+
+article#c-box{
+  width: 440px;
+  height: auto;
+  float: left;
+  border: 2px solid #32CD32;
+  background-color: #FFFAFA;
+}
+
+div#d-box{
+  float: left;
+  width: 198px;
+  background-color: #FFFAFA;
+  border: 2px solid  #32CD32;
+
+}
+ .tabbox{
+    margin-left: 20px;
+    font-size: 100%;
+    font-weight: bold;
+    list-style: none;
+}
+.tabbox li {
+    margin-bottom: 0.8em;
+}
+.tabbox li{
+    text-decoration: none;
+    color: #333333;
+}
+.tabbox li:hover {
+    color: #FF9900;
+}
+
+div.tabbox {
+   margin: 0px; padding: 0px; width: 400px;
+}
+
+
+
+article#sda1 {
+   border: 2px solid #7CFC00; background-color: #FFFAFA;
+}
+article#tab2 {
+   border: 2px solid #7CFC00; background-color: #FFFAFA;
+}
+article#tab3 {
+   border: 2px solid #7CFC00; background-color: #FFFAFA;
+}
+article#tab4 {
+   border: 2px solid #7CFC00; background-color: #FFFAFA;
+}
+article#tab5 {
+   border: 2px solid #7CFC00; background-color: #FFFAFA;
+}
+article#tab6 {
+   border: 2px solid #7CFC00; background-color: #FFFAFA;
+}
+article#tab7 {
+   border: 2px solid #7CFC00; background-color: #FFFAFA;
+}
+article#tab8 {
+   border: 2px solid #7CFC00; background-color: #FFFAFA;
+}
+article#tab9 {
+   border: 2px solid #7CFC00; background-color: #FFFAFA;
+}
+article#tab10 {
+   border: 2px solid #7CFC00; background-color: #FFFAFA;
+}
+
+article.tab p { margin: 0.5em; }
